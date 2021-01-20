@@ -8,7 +8,7 @@ What is this app about?
 This e-commerce is designed for small stores and small markets that show the products that they have in stock so that users can place their orders and be able to pick them up or require that they be sent to the door of their homes.
 
 ## User story
-For what do i need this?
+How is this helpful?
 
 ```
 As a user I like the idea of ​​thinking about having a service that saves me time, how practical it would be to have the shopping list checked 
@@ -33,6 +33,10 @@ As a user I like the idea of ​​thinking about having a service that saves me
     * express
     * express-handlebars
     * MySQL -> ORM - Sequelize
+   
+## Deployment 
+
+https://lemarchefrancais.herokuapp.com/
 
 
 ## Pictures
